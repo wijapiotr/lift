@@ -1,0 +1,9 @@
+sim/work
+qdb
+output_files
+*.wlf
+transcript
+modelsim.ini
+wave.do
+*.qpf
+*.qsf
